@@ -35,8 +35,6 @@ Followed by `npm install --global gulp` if you do not have gulp locally.
 
 ### Compile scss to css
 
-From root of project run `gulp css` and `gulp editor-css`. This will update editor.css, editor.css.map, b4st.css and b4st.css.map files.
+Run `gulp watch` to watch changes made in sass files and automatically compile changes.
 
-Basic setup info for scss here (not my guide): https://github.com/SimonPadbury/b4st/wiki/Customizing-Bootstrap-4-(SCSS)-in-b4st
 
-TO DO: Create a basic guide on setting up dev environment
