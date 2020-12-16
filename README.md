@@ -23,7 +23,13 @@ The base theme can be found here: https://github.com/SimonPadbury/b4st. I used t
 
 You can view the theme in action at [bootscout.org.uk](http://www.bootscout.org.uk).
 
-## Development help
+## Development
+
+### Initial Set 	Up
+Assuming you have npm installed. [Get npm](https://www.npmjs.com/get-npm).
+
+
+In the root of the project run `npm install`.
 
 ### Compile scss to css
 
