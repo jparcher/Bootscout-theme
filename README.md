@@ -31,6 +31,8 @@ Assuming you have npm installed. [Get npm](https://www.npmjs.com/get-npm).
 
 In the root of the project run `npm install`.
 
+Followed by `npm install --global gulp` if you do not have gulp locally. 
+
 ### Compile scss to css
 
 From root of project run `gulp css` and `gulp editor-css`. This will update editor.css, editor.css.map, b4st.css and b4st.css.map files.
